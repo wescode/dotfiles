@@ -1,0 +1,4 @@
+!Make the F7 key brightness down
+keycode  72 = XF86MonBrightnessDown NoSymbol XF86MonBrightnessDown
+!Make the F8 key brightness up  
+keycode  73 = XF86MonBrightnessUp NoSymbol XF86MonBrightnessUp 
