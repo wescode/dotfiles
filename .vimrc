@@ -12,3 +12,5 @@ set synmaxcol=400
 "mapping for tab moving"
 map <C-Right> :tabnext<CR>
 map <C-Left> :tabprev<CR>
+
+"nmap <C-]> <C-w><C-]><C-w>T
