@@ -1,6 +1,9 @@
+set t_Co=256
 syntax on
+colorscheme molokai-transparent
+"set background=dark
+
 set number
-set background=dark
 set nocompatible
 set tabstop=4
 set expandtab
