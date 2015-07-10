@@ -13,7 +13,9 @@ set smartindent
 set synmaxcol=400
 
 "mapping for tab moving"
-map <C-Right> :tabnext<CR>
-map <C-Left> :tabprev<CR>
+"map <C-Right> :tabnext<CR>
+"map <C-Left> :tabprev<CR>
 
+map <ESC>[C :tabnext<CR>
+map <ESC>[D :tabprev<CR>
 "nmap <C-]> <C-w><C-]><C-w>T
